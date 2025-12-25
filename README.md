@@ -1,6 +1,6 @@
 # WM-Kadambari11-SVERI-sCOE
 # Smart Waste Bin Monitoring & Collection Optimization System
-### 📍 IIITH Smart City Living Lab Challenge
+###  IIITH Smart City Living Lab Challenge
 
 ## 📌 Project Overview
 An IoT-based system designed to monitor bin fill levels and optimize collection routes for smarter urban waste management.
